@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""module that contains lru caching system"""
+"""module that contains caching system"""
 
 
 from base_caching import BaseCaching
